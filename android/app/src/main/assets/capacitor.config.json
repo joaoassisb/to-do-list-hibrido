@@ -1,0 +1,9 @@
+{
+  "appId": "com.joao.vitor",
+  "appName": "to-do-list-hibrido",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "public",
+  "cordova": {},
+  "linuxAndroidStudioPath": "/home/Downloads/android-studio/bin/studio.sh"
+}

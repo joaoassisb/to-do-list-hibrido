@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226877193146",
+    "firebase_url": "https://to-do-list-49c16.firebaseio.com",
+    "project_id": "to-do-list-49c16",
+    "storage_bucket": "to-do-list-49c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226877193146:android:0a41b8d2a1c838a82cfb83",
+        "android_client_info": {
+          "package_name": "com.joao.vitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226877193146-e8vemnc1i18ca6pkfd4r45l57afbuvq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDCtmrQONNHbUtL-jfVuF_Z_F7SE1HSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226877193146-e8vemnc1i18ca6pkfd4r45l57afbuvq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
