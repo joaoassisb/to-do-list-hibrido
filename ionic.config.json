@@ -1,5 +1,7 @@
 {
   "name": "to-do-list-hibrido",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
